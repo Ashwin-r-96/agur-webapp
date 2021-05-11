@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!this is ashwin, joey will be back in minute</h2>
+<h2>friends</h2>
 </body>
 </html>
